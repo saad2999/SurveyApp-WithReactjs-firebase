@@ -1,8 +1,6 @@
-# This is web app created with Reactjs and fire base
+### This is web app created with Reactjs and firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
